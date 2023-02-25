@@ -16,9 +16,13 @@ Are you looking for ways to streamline your customer support process? Here's how
 
 **4. Upload training data**
 
-**5. fine-tune model**
+**5. Fine-tune model**
 
-**6. Test the new model on a new prompt**
+**6. Check fine-tune progress**
+
+**7. Save fine-tuned model**
+
+**8. Test the new model on a new prompt**
 
 ---
 
