@@ -4,6 +4,11 @@
 
 Are you looking for ways to streamline your customer support process? Here's how you can use Python to fine-tune a GPT-3 model with your own data for improved performance.
 
+>**Need tailored AI solutions?**<br>
+>I provide one-on-one collaboration and custom AI services for businesses.
+>
+>Let's find the perfect solution for your challenges: [consulting services](https://norahsakal.com/consulting "(https://norahsakal.com/consulting")
+
 ---
 
 ## Outline
